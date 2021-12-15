@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HHJXTX62XS.com.dimitarnestorov.rainbow",
+        "paths": [
+          "NOT /e/*",
+          "*",
+          "/"
+        ]
+      },
+      {
+        "appID": "HHJXTX62XS.com.dimitarnestorov.rainbow",
+        "paths": [
+          "NOT /e/*",
+          "*",
+          "/"
+        ]
+      }
+    ]
+  }
+}
